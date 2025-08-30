@@ -1,1 +1,2 @@
 Game
+hide on bush
